@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 ## Hey there, Sandeep this side!
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -43,6 +45,12 @@
 ---
 
 ### 🤝🏻 &nbsp;Connect with Me 
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shubhamsarda/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/shubham_ul"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
+</p>
 
 
 <!--
