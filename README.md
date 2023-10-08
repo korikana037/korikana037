@@ -30,12 +30,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/korikana037">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=korikana037&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=korikana037&layout=compact&langs_count=8&theme=buefy"/>
-</a>
-</p>
+
 
 ---
 
@@ -49,11 +44,6 @@
 
 ### 🤝🏻 &nbsp;Connect with Me 
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/shubhamsarda/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-shubhamsarda-blue"></a>
-<a href="https://twitter.com/shubham_ul"><img alt="Twitter" src="https://img.shields.io/badge/twitter-shubham__ul-blue"></a>
-</p>
 
 <!--
 **korikana037/korikana037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
