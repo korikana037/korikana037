@@ -1,7 +1,8 @@
+### Hey there, Sandeep this side!
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-## Hey there, Sandeep this side!
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
