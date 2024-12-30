@@ -13,13 +13,14 @@
 
 ### 🛠 &nbsp;Languages and Tools
 
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![PySpark](https://img.shields.io/badge/-PySpark-333333?style=flat&logo=apachespark)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333333?style=flat&logo=apachespark)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-333333?style=flat&logo=apachekafka)
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-333333?style=flat&logo=apacheairflow)
+
  
 
 ---
