@@ -13,9 +13,10 @@
 
 ### 🛠 &nbsp;Languages and Tools
 
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  ![PySpark](https://img.shields.io/badge/-PySpark-333333?style=flat&logo=apachespark)  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)  
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333333?style=flat&logo=apachespark)  ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-333333?style=flat&logo=apachekafka)  ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-333333?style=flat&logo=apacheairflow)  
-![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=apachehadoop)  ![Hive](https://img.shields.io/badge/-Hive-333333?style=flat&logo=apachehive)  ![HDFS](https://img.shields.io/badge/-HDFS-333333?style=flat&logo=apachehadoop)  ![HBase](https://img.shields.io/badge/-HBase-333333?style=flat&logo=apachehadoop)  
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Cassandra](https://img.shields.io/badge/-Cassandra-333333?style=flat&logo=apachecassandra) 
+![PySpark](https://img.shields.io/badge/-PySpark-333333?style=flat&logo=apachespark) ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333333?style=flat&logo=apachespark)  ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-333333?style=flat&logo=apachekafka)  ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-333333?style=flat&logo=apacheairflow)  
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)  ![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=apachehadoop)  ![Hive](https://img.shields.io/badge/-Hive-333333?style=flat&logo=apachehive)  ![HDFS](https://img.shields.io/badge/-HDFS-333333?style=flat&logo=apachehadoop)  ![HBase](https://img.shields.io/badge/-HBase-333333?style=flat&logo=apachehadoop)  
 ![Amazon Web Services](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)  ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-333333?style=flat&logo=microsoftazure)  ![Databricks](https://img.shields.io/badge/-Databricks-333333?style=flat&logo=databricks)  
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)  
 
